@@ -3,7 +3,7 @@ package com.docker.test;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-@RestControllerg
+@RestController
 
 public class dockertest {
     @GetMapping("/message")
